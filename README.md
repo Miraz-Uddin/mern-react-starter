@@ -34,7 +34,7 @@
    ```
 5. Run Project
    ```sh
-   npm run dev
+   npm start
    ```
 
 <br>

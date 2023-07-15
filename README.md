@@ -22,11 +22,11 @@
 
 2. Clone this repository
    ```sh
-   git clone https://github.com/Miraz-Uddin/react-starter.git
+   git clone https://github.com/Miraz-Uddin/mern-react-starter.git
    ```
 3. Go to the cloned project directory
    ```sh
-   cd react-starter
+   cd mern-react-starter
    ```
 4. Install npm packages
    ```sh

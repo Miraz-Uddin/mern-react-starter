@@ -1,7 +1,7 @@
 <br />
  <p align="center">
     <img src="./logo.png" alt="Logo" width="207" height="47" />
-    <h3 align="center "><a href="https://react-starter-by-miraz.netlify.app" target="_blank">Creating a Simple React Application</a></h3>
+    <h3 align="center "><a href="https://mern-react-starter.vercel.app" target="_blank">Creating a Simple React Application</a></h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -43,7 +43,7 @@
 
 ## ![liveLinkIcon][live-link-icon-shield] LIVE LINK
 
-#### URL: https://react-starter-by-miraz.netlify.app
+#### URL: https://mern-react-starter.vercel.app
 
 <br>
 
